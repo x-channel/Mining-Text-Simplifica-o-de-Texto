@@ -1,2 +1,2 @@
-# Mining-Text-Simplifica-o-de-Texto
+# Mining Text: Simplificação de Texto
 Trabalho da faculdade.
