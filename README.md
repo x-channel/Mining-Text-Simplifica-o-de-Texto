@@ -6,3 +6,7 @@ A simplificação de texto é um tópico que vem se demonstrando uma ferramenta 
 O primeiro artigo Text Simplification for Children de 	Jan De Belder e Marie Francine Moens divide o processo em simplificação lexica, simplificação sintática, otimização de escolhas e avaliação. Há a denúncia de falta de base de dados, mas isso foi suprido com a wikipedia e a simple.wikipedia, se supõe que um texto na wikipedia que possui uma versão mais simples na simple wikipedia sempre será um texto mais simples. O texto também sugere usar um classificador para detectar se um texto é simples ou não.
 
 O segundo artigo Using Lexical Chains to Identify Text Difficulty: A Corpus Statistics and Classification Study de Partha Mukherjee, Gondy Leroy e David Kauchak propõe um as características usadas para classificar um texto como fácil ou difícil. Propõe usar cadeias de palavras para melhorar a tarefa de encontrar esse padrão, as cadeias não são mais que grupos de palavras organizadas por um determinado critério. Eles também criam sua base de dados com o material disponível na wikipedia.
+
+## Update 1
+
+Apesar do uso do _stemming_ e do 
