@@ -9,4 +9,6 @@ O segundo artigo Using Lexical Chains to Identify Text Difficulty: A Corpus Stat
 
 ## Update 1
 
-Apesar do uso do _stemming_ e do 
+A base de dados atual é a provida pelo Google no link https://github.com/google-research-datasets/sentence-compression. Apesar da base de dados ser realmente grande e estar pre-processada com o _NER_, apenas está sendo usado o comp-data.eval.json.gz com 10 mil instâncias.
+
+Apesar da filtragem das _stop words_ e do uso do _stemming_, houveram mais de 100 mil _features_.
