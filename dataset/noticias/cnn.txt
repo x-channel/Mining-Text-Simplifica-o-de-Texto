@@ -1,0 +1,1 @@
+aqui estão as noticias representadas como vetores do Bert. O Bert é uma rede neural que cria um word2vec melhor, mas no fundo é w2v.
